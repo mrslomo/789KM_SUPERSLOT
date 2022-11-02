@@ -1,13 +1,16 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "789KM_SUPERSLOT",
+  "theme": "สล็อต สล็อตออนไลน์  789KM 789KM_SUPERSLOT",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "สล็อต สล็อตออนไลน์  789KM 789KM_SUPERSLOT",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "789KM",
+    "789KM_SUPERSLOT",
+    "สล็อต",
+    "slot",
+    "แตกหนัก"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/789KM_SUPERSLOT.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
